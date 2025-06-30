@@ -5,7 +5,7 @@ import phone from '../assets/feather_phone.png'
 const Footer = () => {
     return (
         <div>
-            <div className='mt-10 px-20 flex gap-10 justify-between mb-10'>
+            <div className='mt-10 px-20 flex gap-10 justify-between mb-10 '>
                 <div>
                     <img src={logo} alt="" />
                     <p className='mt-8'>© 2021 <br /> All right reserved.</p>
