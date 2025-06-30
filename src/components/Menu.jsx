@@ -26,7 +26,7 @@ const Menu = () => {
   </a>
 </div>
 
-      <div class="bg-emerald-600 p-2  text-center text-white">
+      <div class="bg-[#10B981] p-2  text-center text-white">
   <h2 class="text-2xl font-bold mb-2">
     Facial Massage<br/>With Scrubs
   </h2>
@@ -44,7 +44,7 @@ const Menu = () => {
   </a>
 </div>
 
-      <div class="bg-emerald-600 p-2  text-center text-white">
+      <div class="bg-[#059669] p-2  text-center text-white">
   <h2 class="text-2xl font-bold mb-2">
     Body Treatment<br/>With Scrubs
   </h2>
