@@ -17,8 +17,9 @@ const Service = () => {
 
                 <div>
                     <div className='bg-emerald-700'>
-                        <img className='' src={scrub} alt="" />
+                        
                     </div>
+                    <div className='bg-transparent'><img className='w-[700px]' src={scrub} alt="" /></div>
                 </div>
             
         </div>

@@ -28,12 +28,13 @@ const Footer = () => {
                     <div className='flex gap-2'>
                         <img src={phone} alt="" />
                     <p>01322716969</p>
+                    
                     </div>
                     
                 </div>
                 <div>
-                    <h1>Get early access</h1>
-                    <form className='flex items-center border-b border-emerald-700' action="">
+                    <h1 className='font-bold text-emerald-700'>Get early access</h1>
+                    <form className='flex items-center border-b border-emerald-700 mt-8' action="">
                         <input className='flex-1 bg-transparent outline-none ' type="email" placeholder='Your email' />
                       
                     </form>
